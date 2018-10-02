@@ -8,7 +8,7 @@ These files go to a certain directory, depending on the OS ST runs on.
 
 OS      | Directory
 ------- | ---------
-Linux   | `FIXME`
+Linux   | `~/.config/sublime-text-3/Packages`
 macOS   | `FIXME`
 Windows | `C:\Users\<USERDIR>\AppData\Roaming\Sublime Text 3`
 
