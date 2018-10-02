@@ -1,0 +1,3 @@
+{
+	"shell_cmd": "flake8 $file && mypy $file && python $file"
+}

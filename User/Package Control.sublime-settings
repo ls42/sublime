@@ -1,0 +1,8 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "lxsinter.olb.de:3128",
+	"installed_packages":
+	[
+		"Package Control"
+	]
+}
