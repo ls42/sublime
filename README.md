@@ -10,8 +10,9 @@ OS      | Directory
 ------- | ---------
 Linux   | `FIXME`
 macOS   | `FIXME`
-Windows | `C:\Users\<USERDIR>\AppData\Roaming\Sublime Text 3\Packages`
+Windows | `C:\Users\<USERDIR>\AppData\Roaming\Sublime Text 3`
 
 * Find the directory for your OS and change into it
-* `git clone git@g.ls42.de:stephan/sublime-text-config.git User`
+* `rm -rf Packages`
+* `git clone git@g.ls42.de:stephan/sublime-text-config.git Packages`
 * Rejoice \o/
