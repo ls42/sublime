@@ -1,1 +1,5 @@
+
 User/Package\ Control.cache
+**/*.last-run
+**/*.user-ca-bundle
+**/*.merged-ca-bundle
