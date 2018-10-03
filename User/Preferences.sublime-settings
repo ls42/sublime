@@ -12,7 +12,7 @@
 	[
 		"no_italic"
 	],
-	"font_size": 14,
+	"font_size": 8,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -28,5 +28,9 @@
 	"theme": "Adaptive.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"folder_exclude_patterns": [
+		".svn", ".git",".hg", "CVS",
+		".pytest_cache", "__pycache__"
+	],
 }
