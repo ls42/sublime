@@ -7,6 +7,15 @@
 	"draw_indent_guides": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".pytest_cache",
+		"__pycache__"
+	],
 	"font_face": "Fira Code",
 	"font_options":
 	[
@@ -28,9 +37,5 @@
 	"theme": "Adaptive.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
-	"word_wrap": true,
-	"folder_exclude_patterns": [
-		".svn", ".git",".hg", "CVS",
-		".pytest_cache", "__pycache__"
-	],
+	"word_wrap": true
 }
