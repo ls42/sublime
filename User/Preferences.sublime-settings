@@ -30,10 +30,6 @@
 	"match_brackets": false,
 	"remember_open_files": false,
 	"remember_open_folders": false,
-	"rulers":
-	[
-		80
-	],
 	"theme": "Adaptive.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
