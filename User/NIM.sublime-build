@@ -1,0 +1,3 @@
+{
+	"shell_cmd": "nim compile --run --hints=off ${file_name}"
+}

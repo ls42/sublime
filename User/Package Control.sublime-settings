@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Meson",
+		"NimLime",
 		"Package Control",
 		"Vala-TMBundle"
 	]
