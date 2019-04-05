@@ -14,25 +14,18 @@
 		".hg",
 		"CVS",
 		".pytest_cache",
-		"__pycache__"
+		"__pycache__",
 	],
-	"font_face": "Fira Code",
-	"font_options":
-	[
-		"no_italic"
-	],
-	"font_size": 8,
+	"font_face": "Iosevka Medium",
+	"font_size": 9,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
 	"match_brackets": false,
 	"remember_open_files": false,
 	"remember_open_folders": false,
 	"theme": "Adaptive.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"wrap_width": 110,
 }
